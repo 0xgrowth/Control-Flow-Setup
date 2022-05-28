@@ -1,0 +1,28 @@
+@import url('https://fonts.googleapis.com/css2?family=Space+Mono&display=swap');
+body  { 
+    background-color: rgb(252, 252, 252);
+    font-family: 'Space Mono', sans-serif;
+    font-weight: 400;
+    font-size: 24px;
+}
+
+/* THE RECT*/
+
+#rect {
+    margin: 100px;
+    align-self: center;
+    background-color: none;
+    height: 250px;
+    width: 600px;
+    border: 4px solid rgb(0, 0, 0);
+    color: rgb(7, 7, 7);
+    border-radius: 20px;
+    box-shadow: 0 0 20px #3a3f44;
+}
+
+#mainCanvas {
+    width: 1000px;
+    height: 450px;
+    border: solid 2px grey;
+}
+
